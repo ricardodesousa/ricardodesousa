@@ -1,6 +1,6 @@
   ### Hi there Eu sou o Ricardo👋  
   
-  ![Ricardo](https://github-readme-stats.vercel.app/api?username=ricardodesousa&show_icons=true&theme=radical      
+  ![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)    
   
   ## Tercnologias que uso no meu dia
   
